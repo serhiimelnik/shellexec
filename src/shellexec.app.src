@@ -1,0 +1,17 @@
+{application, shellexec,
+ [{description, "HTTP job processing service"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, {shellexec_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    cowboy,
+    jsx
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {licenses, ["Apache-2.0"]},
+  {links, []}
+ ]}.
