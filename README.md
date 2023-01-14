@@ -7,7 +7,7 @@ HTTP job processing service.
 ## Table of contents
 * [API Endpoints](#api-endpoints)
   * [Process](#process)
-  * [Generate bash script](#script)
+  * [Generate bash script](#generate-bash-script)
 * [Build](#build)
 * [Run local server](#shell)
 * [Run EUnit Tests](#test)
